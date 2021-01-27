@@ -1,2 +1,2 @@
 # TestGit
-This is to test Git
+This is to test Git and new learings.
